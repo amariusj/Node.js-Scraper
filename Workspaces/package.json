@@ -1,0 +1,18 @@
+{
+  "name": "workspaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amarius Jones",
+  "license": "MIT",
+  "dependencies": {
+    "csv-string": "^3.1.3"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
